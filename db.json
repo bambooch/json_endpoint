@@ -1,0 +1,16 @@
+{
+    "lights": [
+        {
+            "id": "red",
+            "status": "off"
+        },
+        {
+            "id": "green",
+            "status": "off"
+        },
+        {
+            "id": "blue",
+            "status": "off"
+        }
+    ]
+}
